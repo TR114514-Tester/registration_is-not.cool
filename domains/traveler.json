@@ -1,0 +1,12 @@
+{
+    "owner": {
+        "username": "TR114514-Tester",
+        "email": "admin@traveler.dpdns.org",
+        "repo": "github.com/TR114514-Tester/registration_is-not.cool"
+    },
+
+    "records": {
+        "CNAME": "traveler.dpdns.org"
+    },
+    "proxied": false
+}
